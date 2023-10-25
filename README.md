@@ -2,7 +2,7 @@
 
 ## About
 
-This application represents an entity 'Person' for a REST API. This application includes the ability to perform CRUD operations on the entity with data validation to ensure duplicate information (e.g. usernames, emails, and phone numbers) are not used. User-based authentication using Spring Security 6 is implemented in-memory to protect data from users without the correct access level. All standard actutators have been exposed along with a custom one that displays the total number of persons in the database.
+This application represents an entity 'Person' for a REST API. This application includes the ability to perform CRUD operations on the entity with data validation to ensure duplicate information (e.g., usernames, emails, and phone numbers) are not used. User-based authentication using Spring Security 6 is implemented in-memory to protect data from users without the correct access level. All standard actuators have been exposed along with a custom one that displays the total number of persons in the database.
 
 Spring dependencies used:
 * Spring Web
