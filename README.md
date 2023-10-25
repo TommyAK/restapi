@@ -11,8 +11,13 @@ Spring dependencies used:
 * Spring Security
 * Spring Boot Actuator
 
+## Running The App
 
-This application is designed to run locally on: **localhost:8080**
+The final built application can be found in: **app\build\libs\app-0.0.1-SNAPSHOT.jar**
+
+Run using ``java -jar .\app-0.0.1-SNAPSHOT.jar``
+
+This application is designed to run locally on: **http://localhost:8080/**
 
 ## Example API Usage
 
