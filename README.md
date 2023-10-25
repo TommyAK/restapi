@@ -17,7 +17,9 @@ The final built application can be found in: **app\build\libs\app-0.0.1-SNAPSHOT
 
 Run using ``java -jar .\app-0.0.1-SNAPSHOT.jar``
 
-This application is designed to run locally on: **http://localhost:8080/**
+Alternatively, you can build the application from source.
+
+This application is designed to run locally and is accessible via: **localhost:8080**
 
 ## Example API Usage
 
